@@ -208,3 +208,17 @@ Structure
     - Chow, Ho Ming, Raymond A. Mar, Yishheng Xu, Siyuan Liu, Suraji Wagage, and Allen R. Braun. (2015) Personal Experience with Narrated Events Modulates Functional Connectivity within Visual and Motor Systems During Story Comprehension.
 
     - Dawes, Robyn M. (1999). [A Message from Pyschologists to Economists.](https://www.sciencedirect.com/science/article/abs/pii/S0167268199000244) Journal of Economic Behavior & Organization 39
+
+## Lecture
+
+- Protperties of a good story
+    - Effective
+    - Highlights the truth
+    - Does not deceive
+    - Tells the intended story
+
+## Curruculum
+- What makes a good chart?
+- Scott Berinatio - Present Beyond Measure Podcast Episode 35
+    - Subscribe to podcast
+    
